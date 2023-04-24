@@ -1,0 +1,44 @@
+body{
+    background:#bebebe;
+}
+
+p::first-line{
+    color:red;
+}
+
+.cartaz{  
+    display:inline-block;
+    height:25%; width:25%;
+    position:relative;
+    top:10px;
+    
+}
+h3{
+    display:inline;
+    position:relative;
+}
+
+#título_Até_o_Últino_Homem{
+    left:700px;
+}
+
+#título_A_Baleia{
+    left:450px;
+    
+}
+
+#título_Vingadores_Ultimato{
+    left:110px;
+}
+
+#img_Até_o_Últino_Homem{
+    left:160px;
+}
+#img_A_Baleia{
+    left:100px;
+}
+#img_Vingadores_Ultimato{
+    left:40px;
+    padding: 1%;
+    margin:1px;
+}
